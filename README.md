@@ -1,1 +1,2 @@
-# js-loan-calculator
+# Application using Javascript
+# Loan calculator
